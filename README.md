@@ -1,4 +1,12 @@
-### Hi there 👋
+<img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="100" height="50" />  Miguel S. da Silva 
+<img src="https://media1.tenor.com/images/d818a41835d7cdf13107ea8928d5cbd2/tenor.gif?itemid=13723705" width="100" height="50" />
+---
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Miguel1138&show_icons=true&text_color=feda4a&title_color=fffffff&bg_color=000000&icon_color=2196f3"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel1138&layout=compact&langs_count=8&text_color=feda4a&title_color=fffffff&bg_color=000000&icon_color=2196f3"/>
+</div>
+  
 
 <!--
 **Miguel1138/Miguel1138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
