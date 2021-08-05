@@ -11,8 +11,9 @@
   
   #### Some things a know a bit : <br>
   <a href="https://github.com/Miguel1138">
-      <img align="center" alt="android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg">
+      <img align="center" alt="kotlin" height="25" width="30" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
       <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+      <img align="center" alt="android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg">
       <img align="center" alt="git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
   </a>
 </div> 
@@ -25,3 +26,4 @@
   <img align="bottom" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">
 </a>
  
+ ![snake](https://github.com/Miguel1138/Miguel1138/blob/output/github-contribution-grid-snake.svg)
