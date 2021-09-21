@@ -9,7 +9,7 @@
 
 <div style="display: inline_block">
   
-  #### Some things a know a bit : <br>
+  #### Some things I know a bit : <br>
   <a href="https://github.com/Miguel1138">
       <img align="center" alt="kotlin" height="25" width="30" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
       <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
