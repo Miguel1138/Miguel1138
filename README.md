@@ -15,6 +15,9 @@
       <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
       <img align="center" alt="android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg">
       <img align="center" alt="git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
+      <img align="center" alt="MySQl" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+      <img align="center" alt="androidStudio" height="30" width="40" src = "https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
+      <img align="center" alt="androidStudio" height="30" width="40" src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
   </a>
 </div> 
   
@@ -22,7 +25,7 @@
 <a href="https://www.facebook.com/miguel.santosdasilva.963" target="_blank">   
   <img width=30 height=30 src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg">
 </a> 
-<a href="https://www.linkedin.com/in/miguel-santos-da-silva-415605192" target="_blank">
+<a href="" target="_blank">
   <img align="bottom" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">
 </a>
  
