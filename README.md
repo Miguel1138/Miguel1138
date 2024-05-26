@@ -25,7 +25,7 @@
 <a href="https://www.facebook.com/miguel.santosdasilva.963" target="_blank">   
   <img width=30 height=30 src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg">
 </a> 
-<a href="" target="_blank">
+<a href="www.linkedin.com/in/miguel-s-da-silva-415605192" target="_blank">
   <img align="bottom" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">
 </a>
  
