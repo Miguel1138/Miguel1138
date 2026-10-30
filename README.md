@@ -1,8 +1,8 @@
 ## Miguel S. da Silva
 ---
 <p align="center">
-<img width="420" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Miguel1138&show_icons=true&text_color=feda4a&title_color=ffffff&bg_color=000000&icon_color=2196f3&hide=stars"/>
-<img width="300" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel1138&layout=compact&langs_count=8&text_color=feda4a&title_color=ffffff&bg_color=000000&icon_color=2196f3"/>
+<img width="340" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Miguel1138&theme=github_dark"/>
+<img width="340" alt="Top languages by repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Miguel1138&theme=github_dark"/>
 </p>
 
 #### Languages:
