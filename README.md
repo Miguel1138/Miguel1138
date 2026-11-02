@@ -1,4 +1,9 @@
 ## Miguel S. da Silva
+<p>
+  Hey there 👋, I'm a brazillian web developer moved by an endless curiosity and wish to learn. Currently deciding between Cybersecurity or Artifical Intelligence for my postgraduate's degree 😅. In my spare time, I spend reading or developing something here. 
+</p>
+
+
 ---
 <p align="center">
 <img width="340" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Miguel1138&theme=github_dark"/>
@@ -7,12 +12,29 @@
 
 #### Languages:
 <p>
-<img alt="Kotlin" title="Kotlin" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/> <img alt="Java" title="Java" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/> <img alt="TypeScript" title="TypeScript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/> <img alt="JavaScript" title="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/> <img alt="Python" title="Python" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> <img alt="GDScript (Godot)" title="GDScript (Godot)" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg"/>
+  <img alt="Java" title="Java" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/> 
+  <img alt="TypeScript" title="TypeScript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/> 
+  <img alt="JavaScript" title="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/> 
+  <img alt="Python" title="Python" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img alt="Kotlin" title="Kotlin" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/>
+</p>
+
+### Frameworks i use most of the times
+<p>
+  <img alt="spring" title="spring" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/> 
+  <img alt="flyway" title="flyway" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flyway/flyway-original.svg"/> 
+  <img alt="react" title="react" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/> 
+  <img alt="angular" title="angular" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"/> 
 </p>
 
 #### Tools:
 <p>
-<img alt="Android" title="Android" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg"/> <img alt="Android Studio" title="Android Studio" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg"/> <img alt="Git" title="Git" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"/> <img alt="GitHub" title="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/> <img alt="MySQL" title="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
+  <img alt="intellij" title="intellij" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"/>   
+  <img alt="Android Studio" title="Android Studio" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg"/> 
+  <img alt="Git" title="Git" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"/>
+  <img alt="GitHub" title="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/> 
+  <img alt="PostgreSql" title="PostgreSql" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/> 
+  <img alt="insomnia" title="insomnia" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg"/>
 </p>
 
 #### Social Medias:
